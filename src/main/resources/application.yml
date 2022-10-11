@@ -1,12 +1,12 @@
 server:
   port: 8077
 wechat:
-  appId: wx694a1237fbc6331f #'微信公众平台_appID'
-  secret: e00b7dea4b463427ebfdc4e29e132cac #'微信公众平台_appsecret'
-  userId: ofzrt6iFJB_UWHp7DqDy14v5VfJA,ofzrt6iLdci302vP-es4aFT4XUtQ #'微信公众平台_微信号'
-  templateId: YkuSgdLEivusLCxtdm_ViyascukoIv0bhYtNxxN6LFI #'微信公众平台_模板id'
-  district_id: 530302  #'百度地图开放平台_城市ID'
-  ak: f8vRPXT2taIXQcaqEWiYUO6TVXZTWhdh #'百度地图开放平台_应用AK'
+  appId:  #'微信公众平台_appID'
+  secret:  #'微信公众平台_appsecret'
+  userId:  #'微信公众平台_微信号'
+  templateId:  #'微信公众平台_模板id'
+  district_id:   #'百度地图开放平台_城市ID'
+  ak:  #'百度地图开放平台_应用AK'
   loveDate: '2022-08-19'
   birthday: '2004-04-10'
-  rainbowKey: b638a04ddeab0ad4478bdd35fba8f536 #'彩虹屁平台_apiKey'
+  rainbowKey:  #'彩虹屁平台_apiKey'
