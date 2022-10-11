@@ -1,0 +1,9 @@
+com\cws\utils\WeatherUtil.class
+com\cws\utils\PushUtil.class
+com\cws\pojo\Weather.class
+com\cws\controller\TestController.class
+com\cws\scheduled\Task.class
+com\cws\utils\MemoryDayUtil.class
+com\cws\utils\RainbowUtil.class
+com\cws\configure\PushConfigure.class
+com\cws\WechatPushApplication.class
